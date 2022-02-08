@@ -7,7 +7,7 @@ import numpy as np
 
 # API used: https://api.datamuse.com/words?ml=
 
-# Just some colors and shit
+# Just some colors
 white = '\033[1;97m'
 green = '\033[1;32m'
 red = '\033[1;31m'
