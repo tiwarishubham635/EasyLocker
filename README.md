@@ -19,7 +19,7 @@ EasyLocker is a password security interface which enables users to check the str
 ## This Application is made using:
 
 1. Python
-2. Datamuse API
+2. Datamuse API (https://www.datamuse.com/api/)
 
 ## To run the repository on the system:
 
